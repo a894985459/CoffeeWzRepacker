@@ -25,7 +25,7 @@ Editor Features
 06. Improved tab functionality based on HaRepacker: Rename and close unused tabs
 07. Support for opening files in side-by-side view for easy addition and comparison
 08. Light and dark colour schemes
-09. Image zoom from 50% to 1600%
+09. Image zoom from 20% to 1600%
 10. Video parsing support: extract frames or the entire video as PNG or GIF
 11. Spine parsing support: extract frames or the entire video as PNG or GIF
 12. If there are _outlink or _inlink nodes under a Canvas node, images can be automatically filled in with a single click;
