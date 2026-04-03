@@ -61,3 +61,9 @@ https://github.com/user-attachments/assets/efe86d6b-893f-4c6e-80b7-7c40e6b70fea
 https://github.com/user-attachments/assets/0c7bb285-a50a-40fe-ba0c-3c215766cf34
 
 
+Please note that I have developed this software in my spare time.
+As such, it is unlikely that any issues or new features will be addressed or added immediately.
+If you have any issues, please submit them via the issues page and I will get round to dealing with them when I can.
+
+This software is free forever. If anyone attempts to charge you for it, they are definitely a scammer.
+If you’d like to show your support, why not buy me a coffee?
