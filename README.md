@@ -37,7 +37,7 @@ Editor Features
 14. Supports parsing of various PNG compression formats from existing versions; compression settings can also be adjusted directly within the editor:
     Supported formats include BGR-A4444 / BGR-A8888 / DXT3 / DXT5 / BC7
     The BC7 compression format has not yet been implemented (many versions do not support it; there are currently no plans to implement it)
-15. Supports direct loading of entire folders; individual IMG files can be loaded without being nested within a Z file
+15. Supports direct loading of entire folders; individual IMG files can be loaded without being nested within a WZ file
 16. For IMG / XML / Node elements, first- and second-level nodes can be expanded or collapsed
 17. Selecting multiple Canvas nodes allows animation playback via F5 if a Sub node is selected directly and contains Canvas nodes, playback is also possible
 
