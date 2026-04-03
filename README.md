@@ -129,6 +129,10 @@ If you’d like to show your support, why not buy me a coffee?
 
 ---
 
+Development / 協助開發  
+USDT(TRC-20)：TLAygxPu3j4c2iC56CoLRCYWLafsYL9o3b
+
+---
 License  
 MIT  
 ---
