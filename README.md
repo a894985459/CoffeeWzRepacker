@@ -40,3 +40,25 @@ Editor Features
 15. Supports direct loading of entire folders; individual IMG files can be loaded without being nested within a Z file
 16. For IMG / XML / Node elements, first- and second-level nodes can be expanded or collapsed
 17. Selecting multiple Canvas nodes allows animation playback via F5 if a Sub node is selected directly and contains Canvas nodes, playback is also possible
+
+
+
+https://github.com/user-attachments/assets/cf5895fc-e209-4b96-8df0-641f3b4939e3
+
+
+
+https://github.com/user-attachments/assets/313976d2-ff97-420a-bac7-7b37c41a7abe
+
+
+
+https://github.com/user-attachments/assets/1b584889-cb03-4633-a5f0-726f29a41870
+
+
+
+https://github.com/user-attachments/assets/b228ea76-23d2-4b4c-a23e-ac047cf964c6
+
+
+
+https://github.com/user-attachments/assets/dc4f9004-961d-4a19-bea6-8e2ce969c85a
+
+
