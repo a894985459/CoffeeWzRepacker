@@ -1,20 +1,20 @@
-FAQ:
-F. Is this software open source?
-Q. It is not currently open source, but may become so in the future.
+FAQ:  
+F. Is this software open source?  
+Q. It is not currently open source, but may become so in the future.  
 
-F. What language is it developed in? What environment is required?
-Q. Pure Java. The runtime environment is fully packaged; no .NET packages are required.
+F. What language is it developed in? What environment is required?  
+Q. Pure Java. The runtime environment is fully packaged; no .NET packages are required.  
 
-Known / In-progress
+Known / In-progress  
 This has not yet been confirmed. Please let me know if you spot any issue or have any suggestions.
 
-Thanks to HaRepacker, WzComparerR2 and other contributors for the information provided;
+Thanks to HaRepacker, WzComparerR2 and other contributors for the information provided;  
 including, but not limited to, the Wzlib, Spine, Snow2 decryption, ChaCha20 decryption, PKG1 and PKG2 decryption algorithms
 
-⚠⚠⚠ Important Notice ⚠⚠⚠
-This editor is primarily designed for my own convenience, so the UI design may not suit every user’s preferences.
-This editor has not yet been fully tested; you should back up your files before making any edits or saving them.
-The file may take a little while to load; please be patient.
+⚠⚠⚠ Important Notice ⚠⚠⚠  
+This editor is primarily designed for my own convenience, so the UI design may not suit every user’s preferences.  
+This editor has not yet been fully tested; you should back up your files before making any edits or saving them.  
+The file may take a little while to load; please be patient.  
 
 Editor Features
 01. Automatic file version matching for IV alignment analysis
