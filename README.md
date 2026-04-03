@@ -42,23 +42,22 @@ Editor Features
 17. Selecting multiple Canvas nodes allows animation playback via F5 if a Sub node is selected directly and contains Canvas nodes, playback is also possible
 
 
-
-https://github.com/user-attachments/assets/cf5895fc-e209-4b96-8df0-641f3b4939e3
-
-
-
-https://github.com/user-attachments/assets/313976d2-ff97-420a-bac7-7b37c41a7abe
+https://github.com/user-attachments/assets/6d9aaa5d-d20c-444e-89db-1bf46204c173
 
 
 
-https://github.com/user-attachments/assets/1b584889-cb03-4633-a5f0-726f29a41870
+https://github.com/user-attachments/assets/1817a589-ed55-470e-989a-af9d66fc5db0
 
 
 
-https://github.com/user-attachments/assets/b228ea76-23d2-4b4c-a23e-ac047cf964c6
+https://github.com/user-attachments/assets/e8a9ea6a-becd-44c9-b424-54f71d49ddd5
 
 
 
-https://github.com/user-attachments/assets/dc4f9004-961d-4a19-bea6-8e2ce969c85a
+https://github.com/user-attachments/assets/efe86d6b-893f-4c6e-80b7-7c40e6b70fea
+
+
+
+https://github.com/user-attachments/assets/0c7bb285-a50a-40fe-ba0c-3c215766cf34
 
 
