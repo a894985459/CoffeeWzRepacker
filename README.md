@@ -15,10 +15,10 @@ A. 純Java 已將runtime時環境完整打包 無須.NET套件
 ---
 
 Known / In-progress  
-This has not yet been confirmed. Please let me know if you spot any issue or have any suggestions.
+All currently identified issues are being addressed. If you encounter any further issues, please report them via the issues page.
 
 已知問題 / 排程計畫  
-目前暫無確認，若有任何錯誤或相關建議請回報給我
+目前已確認問題皆在排程修復中 若還有其他發現請透過issue頁面回報
 
 ---
 
@@ -53,7 +53,7 @@ Editor Features
 08. Light and dark colour schemes
 09. Image zoom from 20% to 1600%
 10. Video parsing support: extract frames or the entire video as PNG or GIF
-11. Spine parsing support: extract frames or the entire video as PNG or GIF
+11. Supports Spine 2.1.27 and 4.1.24 parsing. Allows extraction of individual frames as PNG or GIF files. When exporting as GIF, the frame rate can be set for saving (to be implemented in the next version).
 12. If there are _outlink or _inlink nodes under a Canvas node, images can be automatically filled in with a single click;
     This feature is available provided that the corresponding _Canvas file has been opened;
     What is a corresponding _Canvas file? 
@@ -66,6 +66,10 @@ Editor Features
 15. Supports direct loading of entire folders; individual IMG files can be loaded without being nested within a WZ file
 16. For IMG / XML / Node elements, first- and second-level nodes can be expanded or collapsed
 17. Selecting multiple Canvas nodes allows animation playback via F5 if a Sub node is selected directly and contains Canvas nodes, playback is also possible
+18. Support for the F4 shortcut to quickly repeat the last node added (to be implemented in the next version)
+19. Support for quick editing of the world map (to be implemented in the next version)
+20. Support for quick editing of skill attack ranges (to be implemented in the next version)
+21. Support for batch importing selected nodes after selecting multiple images from the computer (to be implemented in the next version)
 
 編輯器特點
 01. 自動匹配檔案版本 針對IV對齊解析
@@ -76,22 +80,25 @@ Editor Features
 06. 基於HaRepacker的分頁功能進行改進 可重新命名以及關閉無用分頁
 07. 支援左右雙側開啟檔案 方便新增以及對照
 08. 深淺雙色模式
-09. 圖片縮放 50% ~ 1600% 不失真
-10. 支援影片解析 可做做單幀 / 完整影片提取PNG或GIF
-11. 支援Spine解析 可做做單幀 / 完整影片提取PNG或GIF
+09. 圖片縮放 20% ~ 1600% 不失真
+10. 支援影片解析 可做做單幀 / 完整影片 提取為PNG或GIF
+11. 支援Spine 2.1.27 以及 4.1.24解析 可做做單幀  提取為PNG或GIF 提取為GIF時可設定Fps做保存 (下一版本實裝)
 12. Canvas節點下若有 _outlink / _inlink節點 可以直接一鍵補圖
-	可補圖條件為已開啟同源_Canvas檔案
+	可補圖條件為已開啟同源_Canvas檔案  
 	何謂同源_Canvas檔案? 
-	若已開啟Data\Character\Weapon\Weapon_000.wz
-    必須同時開啟Data\Character\Weapon\_Canvas\這個路徑下的 _Canvas_000 ~ XXX.wz 即可補回圖片
-13. 支援Skill、Reactor、Mob、Morph等任何有lt rb錨點顯示 也可自訂開關
-14. 支援現有版本各種PNG壓縮格式解析 也可在編輯器內直接調整壓縮格式
-	其壓縮格式包含了 BGR-A4444 / BGR-A8888 / DXT3 / DXT5 / BC7
-	BC7壓縮格式尚未實作(許多版本不支援 目前無實作打算)
-15. 支援直接載入整個資料夾 載入單一IMG無須掛載於Z檔案下
-16. 針對 IMG / XML / Node 可做一級 / 二級節點展開 收回也同理
-17. 選取多個Canvas節點可做F5動畫播放 若直接選擇Sub節點 且該節點下有Canvas節點也可直接播放
-
+	若已開啟Data\Character\Weapon\Weapon_000.wz  
+    必須同時開啟Data\Character\Weapon\_Canvas\這個路徑下的 _Canvas_000 ~ XXX.wz 即可補回圖片  
+13. 支援Skill、Reactor、Mob、Morph等任何有lt rb錨點顯示 也可自訂開關  
+14. 支援現有版本各種PNG壓縮格式解析 也可在編輯器內直接調整壓縮格式  
+	其壓縮格式包含了 BGR-A4444 / BGR-A8888 / DXT3 / DXT5 / BC7  
+	BC7壓縮格式尚未實作(許多版本不支援 目前無實作打算)  
+15. 支援直接載入整個資料夾 載入單一IMG無須掛載於Z檔案下  
+16. 針對 IMG / XML / Node 可做一級 / 二級節點展開 收回也同理  
+17. 選取多個Canvas節點可做F5動畫播放 若直接選擇Sub節點 且該節點下有Canvas節點也可直接播放  
+18. 支援F4快捷鍵快速重複上個新增的節點 (下一版本實裝)
+19. 支援快速編輯世界地圖功能 (下一版本實裝)
+20. 支援快速編輯技能攻擊範圍 (下一版本實裝)
+21. 支援從電腦選取複數圖片後批量匯入選中的節點 (下一版本實裝)
 ---
 
 https://github.com/user-attachments/assets/6d9aaa5d-d20c-444e-89db-1bf46204c173
