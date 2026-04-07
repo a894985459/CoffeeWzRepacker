@@ -8,6 +8,17 @@
 A high-performance WZ editor with Spine and modern tooling support.  
 一款支援 Spine 與進階功能的高效能 WZ 編輯器
 
+## To run, you need / 運行最低需求
+ - OS	Windows：10 1607+ / Windows 11  
+   作業系統：Windows 10 1607+ / Windows 11
+ - CPU Architecture：x64  
+   CPU 架構：x64
+ - RAM：8GB (Users may adjust this themselves)  
+   記憶體：8 GB (使用者可自行調整)
+ - Graphics：OpenGL-capable GPU (OpenGL 3.3+ recommended)  
+   顯示卡：支援 OpenGL 的 GPU（建議 OpenGL 3.3+）
+ - VRAM：2 GB (recommended baseline)  
+   顯示記憶體：2 GB（建議）
 
 ## Preview / 預覽
 
