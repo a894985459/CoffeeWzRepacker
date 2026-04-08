@@ -14,7 +14,8 @@
 - 🟢 When opening multiple WZ files (non-folder mode), an extra directory layer is created  
 - 🟢 Image import/export format settings are not properly retained  
 - 🟢 Failure to correctly detect the `Sound.Binary` type may cause Spine composition to fail (e.g. Ursus 8881000.img)
-- 🔴 UI flickering/jitter when using non-100% Windows display scaling (DPI scaling issue) 
+- 🔴 UI flickering/jitter when using non-100% Windows display scaling (DPI scaling issue)
+- 🟡 Export fails when selecting multiple image files, and selected image files cannot be exported
 
 </details>
 
@@ -26,6 +27,7 @@
 - 🟢 同時開啟多個 WZ 檔案（非資料夾模式）時，會額外產生一層目錄結構 
 - 🟢 圖片匯入／匯出時，格式設定無法正確記憶  
 - 🟢 無法正確識別 `Sound.Binary` 類型，導致 Spine 組成失敗 (如 烏勒斯 8881000.img)
-- 🔴 在非 100% 的 Windows 縮放比例下，部分 UI 視窗可能出現抖動（DPI 縮放問題） 
+- 🔴 在非 100% 的 Windows 縮放比例下，部分 UI 視窗可能出現抖動（DPI 縮放問題）
+- 🟡 多選 Img 檔案時匯出失敗及無法匯出複選的 Img 檔案
 
 </details>
