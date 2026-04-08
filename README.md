@@ -8,6 +8,9 @@
 A high-performance WZ editor with Spine and modern tooling support.  
 一款支援 Spine 與進階功能的高效能 WZ 編輯器
 
+[\[Release Plan / 版本計畫\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Roadmap.md)  
+[\[Status Tracking / 狀態追蹤\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Status.md)
+
 ## To run, you need / 運行最低需求
  - OS	Windows：10 1607+ / Windows 11  
    作業系統：Windows 10 1607+ / Windows 11
