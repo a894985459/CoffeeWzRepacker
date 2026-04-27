@@ -1,6 +1,6 @@
 ## Current Status / 問題狀態
 
-**Version: v1.2.3**
+**Version: v1.2.4**
 
 - 🔴 Not fixed / 未修復
 - 🟡 In progress / 處理中
