@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-Custom%20License-orange)
 
 A high-performance WZ editor with Spine and modern tooling support.  
-一款支援 Spine 與進階功能的高效能 WZ 編輯器
+一款支援 `Spine` 預覽與進階功能的高效能 `WZ` 編輯器
 
 [\[Release Plan / 版本計畫\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Roadmap.md)  
 [\[Status Tracking / 狀態追蹤\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Status.md)
@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/0c7bb285-a50a-40fe-ba0c-3c215766cf34
 
 ### Animation / Spine
 - Spine 2.1.27 / 4.1.24 support  
-  支援 Spine 動畫  
+  支援 Spine 動畫預覽  
 - Export PNG / GIF  
   匯出 PNG / GIF  
 - Frame extraction  
@@ -118,7 +118,7 @@ https://github.com/user-attachments/assets/0c7bb285-a50a-40fe-ba0c-3c215766cf34
     影片解析  
 
 10. Spine animation parsing & export  
-    Spine 動畫支援  
+    Spine 動畫解析  
 
 11. Auto image linking for Canvas nodes  
     Canvas 自動補圖  
@@ -148,8 +148,14 @@ https://github.com/user-attachments/assets/0c7bb285-a50a-40fe-ba0c-3c215766cf34
     技能編輯  
 
 20. Batch image import to nodes  
-    批次圖片匯入  
+    批次圖片匯入 / 替換
 
+21. Support `MSCW` File  
+    支援解析 `MSCW` 檔案  
+    
+23. Support Custom `IV` and `Userkey`  
+    支援自訂 `IV` 以及 `UserKey`  
+    
 </details>
 
 ## FAQ
