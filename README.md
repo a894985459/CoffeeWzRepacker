@@ -11,6 +11,13 @@ A high-performance WZ editor with Spine and modern tooling support.
 [\[Release Plan / 版本計畫\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Roadmap.md)  
 [\[Status Tracking / 狀態追蹤\]](https://github.com/a894985459/CoffeeWzRepacker/blob/main/Status.md)
 
+---
+
+When the new version is released, we would ask users who have raised an `Issue` to check whether it has been resolved. If it has been resolved, please mark the `Issue` as closed. Thank you for your assistance.
+當新版本發布時，有發布 `Issue` 的使用者請協助確認 `Issue` 是否已解決，若已解決煩請將 `Issue` 設為關閉狀態，謝謝各位的協助
+
+---
+
 ## To run, you need / 運行最低需求
  - OS	Windows：10 1607+ / Windows 11  
    作業系統：Windows 10 1607+ / Windows 11
