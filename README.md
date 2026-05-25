@@ -13,7 +13,7 @@ A high-performance WZ editor with Spine and modern tooling support.
 
 ---
 
-When the new version is released, we would ask users who have raised an `Issue` to check whether it has been resolved. If it has been resolved, please mark the `Issue` as closed. Thank you for your assistance.
+When the new version is released, we would ask users who have raised an `Issue` to check whether it has been resolved. If it has been resolved, please mark the `Issue` as closed. Thank you for your assistance.  
 當新版本發布時，有發布 `Issue` 的使用者請協助確認 `Issue` 是否已解決，若已解決煩請將 `Issue` 設為關閉狀態，謝謝各位的協助
 
 ---
