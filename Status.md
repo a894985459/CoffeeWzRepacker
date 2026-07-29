@@ -11,6 +11,7 @@
 <details>
 <summary>Click to expand</summary>
 
+- 🔴 Obj spines not working (spine preview failed: spine 21: could't load file)
 - 🔴 UI flickering/jitter when using non-100% Windows display scaling (DPI scaling issue)
 - 🟢 Duplicate options appear in the right-click menu
 - 🟢 The image upload function is extremely sluggish; there is an issue with the image payload.
